@@ -64,4 +64,3 @@ includeBuild 'vendor', {
   name = "configurate-vendor"
 }
 includeBuild 'build-logic'
-
